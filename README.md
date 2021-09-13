@@ -37,7 +37,7 @@ INFO: Server started, listening on 50051
 java -cp target/grpctest-1.0-SNAPSHOT-jar-with-dependencies.jar org.jpdna.grpchello.HelloWorldClient 
 ```
 
-you sould see:
+控制台输出:
 ```
 Nov 22, 2015 7:20:56 PM org.jpdna.grpchello.HelloWorldClient greet
 INFO: Will try to greet HUBO ...
