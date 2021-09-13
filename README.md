@@ -8,7 +8,7 @@
 官网文档：http://www.grpc.io/docs/
 
 
-git 拉起项目，然后执行 maven 构建命令:
+git 拉取项目，然后执行 maven 构建命令:
 
 ```
 mvn clean package
